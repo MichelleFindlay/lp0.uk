@@ -7,11 +7,11 @@ export default function Page() {
         Hey I'm Michelle
       </h1>
       <p className="mb-4">
-        {`🏳️‍⚧️⚤🏳️‍🌈🏴‍☠️<be><be>
+        {`🏳️‍⚧️⚤🏳️‍🌈🏴‍☠️
 30 "ish" year old person. Loves to Binge films and tv. All opinions are my own and not that of my employers et cetera et cetera.
-<be>
-Chief Harlequin at <a href="https://www.jesterscourt.uk" target="_BLANK">@jesterscourt.uk</a><br>
-<be>
+
+Chief Harlequin at <a href="https://www.jesterscourt.uk" target="_BLANK">@jesterscourt.uk</a>
+
 Trustee at <a href="https://www.prideinglos.org.uk" target="_BLANK">@prideinglos.org.uk</a>
 `}
       </p>
