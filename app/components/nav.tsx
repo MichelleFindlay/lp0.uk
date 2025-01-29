@@ -7,9 +7,6 @@ const navItems = {
   '/blog': {
     name: 'blog',
   },
-  'https://bsky.app/profile/lp0.uk': {
-    name: 'bluesky',
-  },
 }
 
 export function Navbar() {
