@@ -11,7 +11,7 @@ export default function Page() {
           30 "ish" year old person. Loves to Binge films and tv. All opinions are my own and not that of my employers et cetera et cetera.`}
       </p>
       <p className="mb-4">
-        {`Chief Harlequin at <a
+        {`Chief Harlequin at `}<a
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
@@ -19,11 +19,11 @@ export default function Page() {
           >
             <ArrowIcon />
             <p className="ml-2 h-7">Jesters Court</p>
-          </a>`}
+          </a>
       </p>
 
       <p className="mb-4">
-        {`Trustee at <a
+        {`Trustee at `}<a
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
@@ -31,7 +31,7 @@ export default function Page() {
           >
             <ArrowIcon />
             <p className="ml-2 h-7">🏳️‍🌈 Pride in Gloucestershire 🏳️‍⚧️</p>
-          </a>`}
+          </a>
       </p>
       
       <div className="my-8">
