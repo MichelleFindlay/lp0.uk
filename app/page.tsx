@@ -10,13 +10,6 @@ export default function Page() {
         {`🏳️‍⚧️⚤🏳️‍🌈🏴‍☠️
           30 "ish" year old person. Loves to Binge films and tv. All opinions are my own and not that of my employers et cetera et cetera.`}
       </p>
-      <p className="mb-4">
-        {`Chief Harlequin at Jesters Court`}
-      </p>
-
-      <p className="mb-4">
-        {`Trustee at Pride in Gloucestershire`}
-      </p>
       
       <div className="my-8">
         <BlogPosts />
