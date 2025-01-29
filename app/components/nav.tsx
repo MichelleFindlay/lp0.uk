@@ -1,15 +1,14 @@
 import Link from 'next/link'
 
 const navItems = {
+    '#': {
+    name: 'LP0',
+  },
   '/': {
     name: 'home',
   },
   '/blog': {
     name: 'blog',
-  },
-  'https://vercel.com/templates/next.js/portfolio-starter-kit': {
-    name: 'deploy',
-  },
 }
 
 export function Navbar() {
