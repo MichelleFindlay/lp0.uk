@@ -11,11 +11,27 @@ export default function Page() {
           30 "ish" year old person. Loves to Binge films and tv. All opinions are my own and not that of my employers et cetera et cetera.`}
       </p>
       <p className="mb-4">
-        {`Chief Harlequin at Jesters Court`}
+        {`Chief Harlequin at <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://www.jesterscourt.uk"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">Jesters Court</p>
+          </a>`}
       </p>
 
       <p className="mb-4">
-        {`Trustee at Pride in Gloucetershire`}
+        {`Trustee at <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://www.prideinglos.org.uk"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">🏳️‍🌈 Pride in Gloucestershire 🏳️‍⚧️</p>
+          </a>`}
       </p>
       
       <div className="my-8">
