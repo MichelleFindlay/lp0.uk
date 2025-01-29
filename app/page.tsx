@@ -4,10 +4,16 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        “We exist without nationality, skin color, or religious bias.”
+        Hey I'm Michelle
       </h1>
       <p className="mb-4">
-        {`FYI man, alright. You could sit at home, and do like absolutely nothing, and your name goes through like 17 computers a day. 1984? Yeah right, man. That's a typo. Orwell is here now. He's livin' large. We have no names, man. No names. We are nameless!`}
+        {`🏳️‍⚧️⚤🏳️‍🌈🏴‍☠️<be><be>
+30 "ish" year old person. Loves to Binge films and tv. All opinions are my own and not that of my employers et cetera et cetera.
+<be>
+Chief Harlequin at <a href="https://www.jesterscourt.uk" target="_BLANK">@jesterscourt.uk</a><br>
+<be>
+Trustee at <a href="https://www.prideinglos.org.uk" target="_BLANK">@prideinglos.org.uk</a>
+`}
       </p>
       <div className="my-8">
         <BlogPosts />
