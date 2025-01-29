@@ -14,13 +14,13 @@ export const metadata: Metadata = {
     default: 'LP0',
     template: '%s | LP0',
   },
-  description: 'This is my portfolio.',
+  description: 'LP0.',
   openGraph: {
     title: 'LP0',
     description: 'LP0.uk.',
     url: baseUrl,
-    siteName: 'My Portfolio',
-    locale: 'en_US',
+    siteName: 'LP0',
+    locale: 'en_GB',
     type: 'website',
   },
   robots: {
