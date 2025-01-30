@@ -4,11 +4,18 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Hey I'm Michelle
+        Contact Me
       </h1>
       <p className="mb-4">
-        {`🏳️‍⚧️⚤🏳️‍🌈🏴‍☠️
-          30 "ish" year old person. Loves to Binge films and tv. All opinions are my own and not that of my employers et cetera et cetera.`}
+        {`📧 Send me an e-mail at mf@lp0.uk`}
+      </p>
+
+      <p className="mb-4">
+        {`🌐 Mention or DM me on Bluesky`}
+      </p>
+
+      <p className="mb-4">
+        {`👥 Connect with me on Mastodon`}
       </p>
       
       <div className="my-8">
