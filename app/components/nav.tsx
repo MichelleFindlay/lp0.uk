@@ -7,6 +7,9 @@ const navItems = {
   '/blog': {
     name: 'blog',
   },
+  'https://www.jesterscourt.uk': {
+    name: 'jesters court',
+  },
   '/contact': {
     name: 'contact',
   },
