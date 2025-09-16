@@ -6,12 +6,13 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         👩‍💻 The Tech Stack
       </h1>
+
       <p className="mb-4">
         {`📧🔑📁 Proton`}
       </p>
-
+      
       <p className="mb-4">
-        {`🪟 Windows Desktop (MSI)`}
+        {`🛜 Ubiquiti Network`}
       </p>
 
       <p className="mb-4">
@@ -21,6 +22,27 @@ export default function Page() {
       <p className="mb-4">
         {`🗄️ Synology SAN`}
       </p>
+
+      <p className="mb-4">
+        {`🏠 Home Automation (Home Assistant)`}
+      </p>
+
+      <p className="mb-4">
+        {`💡 Hue Lighting`}
+      </p>
+
+      <p className="mb-4">
+        {`🎦 Synology (Various Brands of Camera)`}
+      </p>
+
+      <p className="mb-4">
+        {`🪟 Windows Desktop (MSI)`}
+      </p>
+
+
+
+
+
       
       <div className="my-8">
         <BlogPosts />
