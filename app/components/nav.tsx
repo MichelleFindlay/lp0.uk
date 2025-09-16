@@ -6,6 +6,9 @@ const navItems = {
   },
   '/blog': {
     name: 'blog',
+  '/stack': {
+    name: 'tech-stack',
+  },
   },
   '/contact': {
     name: 'contact',
