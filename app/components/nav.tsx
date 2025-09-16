@@ -10,9 +10,6 @@ const navItems = {
   '/socials': {
     name: 'socials',
   },
-  'https://www.jesterscourt.uk': {
-    name: 'jesters court',
-  },
   '/contact': {
     name: 'contact',
   },
