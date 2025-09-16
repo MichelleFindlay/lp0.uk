@@ -4,10 +4,22 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Contact Me
+        👩‍💻 The Tech Stack
       </h1>
       <p className="mb-4">
-        {`📧 Send me an e-mail at mf@lp0.uk`}
+        {`📧🔑📁 Proton`}
+      </p>
+
+      <p className="mb-4">
+        {`🪟 Windows Desktop (MSI)`}
+      </p>
+
+      <p className="mb-4">
+        {`⚡ Proxmox Hypervisor`}
+      </p>
+
+      <p className="mb-4">
+        {`🗄️ Synology SAN`}
       </p>
       
       <div className="my-8">
