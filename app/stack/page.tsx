@@ -68,6 +68,10 @@ export default function Page() {
       </p>
 
       <p className="mb-4">
+        {`📡 Plane Radar (https://radar.lp0.uk/ reporting to Flight Radar 24 `}
+      </p>
+      
+      <p className="mb-4">
         {`📱 Android FTW (Mobile)`}
       </p>
       
