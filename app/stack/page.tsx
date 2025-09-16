@@ -12,6 +12,14 @@ export default function Page() {
       </p>
       
       <p className="mb-4">
+        {`🧱🔥 Cloudflare`}
+      </p>      
+
+      <p className="mb-4">
+        {`🧱🔥 Firewall (Now why would i tell you what vendor?)`}
+      </p>      
+      
+      <p className="mb-4">
         {`🛜 Ubiquiti Network`}
       </p>
 
@@ -24,11 +32,11 @@ export default function Page() {
       </p>
 
       <p className="mb-4">
-        {`🏠 Home Automation (Home Assistant)`}
+        {`💡 Hue Lighting`}
       </p>
 
       <p className="mb-4">
-        {`💡 Hue Lighting`}
+        {`🌡 Hive`}
       </p>
 
       <p className="mb-4">
@@ -36,13 +44,32 @@ export default function Page() {
       </p>
 
       <p className="mb-4">
+        {`🔊 Sonos (Rethinking this one)`}
+      </p>
+
+      <p className="mb-4">
+        {`🔊 Dolby Atmos for TV (Denon  Amp)`}
+      </p>
+
+      <p className="mb-4">
+        {`🖨️ 3D Printer - Creality Ender 3 Pro `}
+      </p>
+
+      <p className="mb-4">
+        {`🖨️ "Boring" Printer - HP Laserjet`}
+      </p>
+
+      <p className="mb-4">
+        {`🏠 Home Automation (Home Assistant)`}
+      </p>
+
+      <p className="mb-4">
         {`🪟 Windows Desktop (MSI)`}
       </p>
 
-
-
-
-
+      <p className="mb-4">
+        {`📱 Android FTW (Mobile)`}
+      </p>
       
       <div className="my-8">
         <BlogPosts />
