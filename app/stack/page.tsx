@@ -12,7 +12,7 @@ export default function Page() {
       </p>
       
       <p className="mb-4">
-        {`🧱🔥 Cloudflare`}
+        {`🧱🔥 Cloudflare (Too Big to Fail)`}
       </p>      
 
       <p className="mb-4">
@@ -20,7 +20,7 @@ export default function Page() {
       </p>      
       
       <p className="mb-4">
-        {`🛜 Ubiquiti Network`}
+        {`🛜 Managed Smart Switching  (Now why would i tell you what vendor?)`}
       </p>
 
       <p className="mb-4">
@@ -32,15 +32,15 @@ export default function Page() {
       </p>
 
       <p className="mb-4">
-        {`💡 Hue Lighting`}
+        {`💡 Smart Lighting`}
       </p>
 
       <p className="mb-4">
-        {`🌡 Hive`}
+        {`🌡 Smart Heating`}
       </p>
 
       <p className="mb-4">
-        {`🎦 Synology (Various Brands of Camera)`}
+        {`🎦 Synology CCTV Controller`}
       </p>
 
       <p className="mb-4">
@@ -56,7 +56,7 @@ export default function Page() {
       </p>
 
       <p className="mb-4">
-        {`🖨️ "Boring" Printer - HP Laserjet`}
+        {`🖨️ "Boring" Lasetjet Printer`}
       </p>
 
       <p className="mb-4">
@@ -64,11 +64,11 @@ export default function Page() {
       </p>
 
       <p className="mb-4">
-        {`🪟 Windows Desktop (MSI)`}
+        {`🪟 Windows Gaming PC`}
       </p>
 
       <p className="mb-4">
-        {`📡 Plane Radar (Reporting to Flight Radar 24)`}
+        {`📡 Plane Radar (Pi) (Reporting to Flight Radar 24)`}
       </p>
       
       <p className="mb-4">
