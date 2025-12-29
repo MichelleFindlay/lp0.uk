@@ -64,7 +64,7 @@ export default function Page() {
       </p>
 
       <p className="mb-4">
-        {`🪟 Windows Gaming PC`}
+        {`🐧 Linux Gaming PC`}
       </p>
 
       <p className="mb-4">
