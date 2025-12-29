@@ -56,7 +56,7 @@ export default function Page() {
       </p>
 
       <p className="mb-4">
-        {`🖨️ "Boring" Lasetjet Printer`}
+        {`🖨️ "Boring" Laserjet Printer`}
       </p>
 
       <p className="mb-4">
@@ -72,7 +72,7 @@ export default function Page() {
       </p>
       
       <p className="mb-4">
-        {`📱 Android FTW (Mobile)`}
+        {`📱 Android (Mobile)`}
       </p>
       
       <div className="my-8">
