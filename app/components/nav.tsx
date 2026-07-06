@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import { ThemeToggle } from './theme-toggle'
 
 const navItems = {
   '/': {
@@ -37,7 +36,6 @@ export function Navbar() {
               )
             })}
           </div>
-          <ThemeToggle />
         </nav>
       </div>
     </aside>
