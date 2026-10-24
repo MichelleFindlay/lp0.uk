@@ -13,7 +13,11 @@ export default function Page() {
       
       <p className="mb-4">
         {`🧱🔥 Cloudflare (Too Big to Fail)`}
-      </p>      
+      </p>
+
+      <p className="mb-4">
+        {`🕸️ NetBird`}
+      </p>
 
       <p className="mb-4">
         {`🧱🔥 Firewall (Now why would i tell you what vendor?)`}
@@ -37,6 +41,10 @@ export default function Page() {
 
       <p className="mb-4">
         {`🌡 Smart Heating`}
+      </p>
+
+      <p className="mb-4">
+        {`🚨 Smart Smoke & Monoxide Alarms`}
       </p>
 
       <p className="mb-4">
@@ -72,7 +80,7 @@ export default function Page() {
       </p>
       
       <p className="mb-4">
-        {`📱 Android (Mobile)`}
+        {`📱 iPhone (Mobile)`}
       </p>
       
       <div className="my-8">

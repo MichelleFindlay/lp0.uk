@@ -11,11 +11,11 @@ const navItems = {
   '/stack': {
     name: 'tech-stack',
   },
-  '/contact': {
-    name: 'contact',
-  },
   'https://code.lp0.uk': {
     name: 'code',
+  },
+  '/contact': {
+    name: 'contact',
   },
 }
 
