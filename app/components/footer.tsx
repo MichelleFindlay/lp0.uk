@@ -46,6 +46,28 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
+            href="https://dnssec-analyzer.verisignlabs.com/lp0.uk"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">dnssec</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://securityheaders.com/?q=https%3A%2F%2Fwww.lp0.uk&followRedirects=on"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">security headers</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
             href="https://github.com/MichelleFindlay/lp0.uk"
           >
             <ArrowIcon />
