@@ -14,6 +14,9 @@ const navItems = {
   '/contact': {
     name: 'contact',
   },
+  'https://code.lp0.uk': {
+    name: 'code',
+  },
 }
 
 export function Navbar() {
